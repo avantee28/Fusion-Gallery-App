@@ -1,4 +1,5 @@
-<img width="1420" alt="Screenshot 2023-11-24 at 2 18 32 PM" src="https://github.com/yazdanhaider/Fusion-Gallery-App/assets/92041860/2e42f98d-529f-47fb-9d28-e5258bae43a5">
+<img width="1136" alt="Screenshot 2023-11-24 at 10 29 30 PM" src="https://github.com/yazdanhaider/Fusion-Gallery-App/assets/92041860/3eba4eb5-3b45-4eb0-8413-35321861481b">
+
 
 
 # Fusion Gallery
