@@ -8,8 +8,6 @@ Where artistry meets technology. Explore, indulge, and be inspired by the boundl
 [![Made with ReactJS](https://img.shields.io/badge/Made%20with-ReactJS-61DAFB.svg)](https://react.dev/) [![Release](https://img.shields.io/github/v/release/yazdanhaider/Fusion-Gallery-App?label=Release&color=success&style=flat&include_prereleases)](https://github.com/yazdanhaider/Fusion-Gallery-App/releases/tag/0.0.1)
 
 
-[![Build](https://github.com/TheGuyDangerous/TheatreTime/actions/workflows/dart.yml/badge.svg)](https://github.com/TheGuyDangerous/TheatreTime/actions/workflows/dart.yml)
-
 ### Don't forget to :star: the repo
 
 [![GitHub stars](https://img.shields.io/github/stars/yazdanhaider/Fusion-Gallery-App.svg?style=social&label=Star)](https://github.com/yazdanhaider/Fusion-Gallery-App) ![GitHub forks](https://img.shields.io/github/forks/yazdanhaider/Fusion-Gallery-App.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/yazdanhaider.svg?style=social&label=Follow)
